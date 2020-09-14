@@ -1,4 +1,4 @@
-<?php
+<?php declare(strict_types=1);
 
 $numbers = [
     1789, 2035, 1899, 1456, 2013,
