@@ -4,4 +4,6 @@
 <hr>
 ** <b> 01-BASICS</b>: A section with several task topics along with php files;
 <hr>
+** <b> HOMEWORKS</b>: Homeworks about course;
+<hr>
 ** <b> PROJECTS</b>: Projects on various topics that were created in the trainings;
